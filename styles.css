@@ -45,3 +45,20 @@ footer a:hover {
 .bmc-button-container {
     margin-top: 20px;
 }
+
+.github-link {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+}
+
+.github-link i {
+    margin-right: 8px;
+}
+
+.github-link:hover {
+    color: #000;
+}
