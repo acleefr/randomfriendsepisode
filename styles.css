@@ -41,3 +41,7 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+.bmc-button-container {
+    margin-top: 20px;
+}
