@@ -13,11 +13,16 @@ body {
     text-align: center;
 }
 
+.title {
+    font-family: 'Permanent Marker', cursive;
+}
+
 button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #ffcc00;
+    color: #e9cf68;
+    background-color: #9c8cd4;
     border: none;
     border-radius: 5px;
     transition: background-color 0.3s;
@@ -34,8 +39,8 @@ footer {
 }
 
 footer a {
-    color: #ffcc00;
-    text-decoration: none;
+    color: #9c8cd4;
+    text-decoration: none; 
 }
 
 footer a:hover {
